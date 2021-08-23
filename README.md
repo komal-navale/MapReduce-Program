@@ -1,2 +1,3 @@
 # MapReduce-Program
-MapReduce Program using Hadoop, Microsoft Azure HDInsight Cluster and Python
+1. MapReduce Program using Hadoop
+2. MapReduce Program in Python and executed using Microsoft Azure HDInsight Cluster 
